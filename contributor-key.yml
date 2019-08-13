@@ -19,10 +19,10 @@
   organization: Agileware
   jira        : agileware
 
-- github      : agilewarealok
-  name        : Alok Patel
+- github      : agileware-pengyi
+  name        : Pengyi
   organization: Agileware
-  jira        : agilewarealok
+  jira        : Agileware
 
 - github      : agileware-dev
   name        : Agileware Team
